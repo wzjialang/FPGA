@@ -1,0 +1,12 @@
+[Inputs]
+clk50m
+reset_n
+rx
+=ad1_in[11:0]=
+[Outputs]
+tx
+ad1_clk
+[BiDir]
+[ATTRIBUTES]
+VeriModel ad9226_test
+

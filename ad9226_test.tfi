@@ -1,0 +1,14 @@
+
+
+
+// Instantiate the module
+ad9226_test instance_name (
+    .clk50m(clk50m), 
+    .reset_n(reset_n), 
+    .rx(rx), 
+    .tx(tx), 
+    .ad1_in(ad1_in), 
+    .ad1_clk(ad1_clk)
+    );
+
+

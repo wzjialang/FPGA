@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+FIFO_rd instance_name (
+    .rdclk(rdclk), 
+    .rst_n(rst_n), 
+    .rdempty(rdempty), 
+    .rdreq(rdreq), 
+    .uart_wr(uart_wr)
+    );
+
+

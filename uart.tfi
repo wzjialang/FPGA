@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+uart instance_name (
+    .clk50(clk50), 
+    .reset_n(reset_n), 
+    .rdata(rdata), 
+    .ack(ack), 
+    .tx(tx)
+    );
+
+

@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+fifo_wr instance_name (
+    .ch1_dec(ch1_dec), 
+    .ch1_sig(ch1_sig), 
+    .wr_clk(wr_clk), 
+    .almost_full(almost_full), 
+    .rst_n(rst_n), 
+    .din(din), 
+    .wr_en(wr_en)
+    );
+
+

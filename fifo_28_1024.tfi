@@ -1,0 +1,17 @@
+
+
+
+// Instantiate the module
+fifo_28_1024 instance_name (
+    .rst(rst), 
+    .wr_clk(wr_clk), 
+    .rd_clk(rd_clk), 
+    .din(din), 
+    .wr_en(wr_en), 
+    .rd_en(rd_en), 
+    .dout(dout), 
+    .full(full), 
+    .empty(empty)
+    );
+
+

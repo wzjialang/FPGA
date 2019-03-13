@@ -1,0 +1,4 @@
+verilog work "../test/fifo_test/fifo_wr.v"
+verilog work "../test/fifo_test/fifo_rd.v"
+verilog work "../ad/30_ad9226_test/ipcore_dir/fifo_28_1024.v"
+verilog work "../test/fifo_test/FIFO_top.v"

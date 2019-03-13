@@ -1,0 +1,2 @@
+verilog work "rtl/bcd.v"
+verilog work "rtl/volt_cal.v"

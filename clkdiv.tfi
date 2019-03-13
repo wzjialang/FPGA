@@ -1,0 +1,10 @@
+
+
+
+// Instantiate the module
+clkdiv instance_name (
+    .clk50(clk50), 
+    .clkout(clkout)
+    );
+
+

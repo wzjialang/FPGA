@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj ad9226_test -o E:/30_ad9226_test/fifo_wr.tfi -lib work E:/test/fifo_test//fifo_wr.v -module fifo_wr -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj ad9226_test -o E:/30_ad9226_test/fifo_wr.tfi -lib work E:/test/fifo_test//fifo_wr.v -module fifo_wr -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

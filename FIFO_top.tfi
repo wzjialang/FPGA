@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+FIFO_top instance_name (
+    .wr_clk(wr_clk), 
+    .rd_clk(rd_clk), 
+    .rst_n(rst_n), 
+    .ch1_dec(ch1_dec), 
+    .ch1_sig(ch1_sig), 
+    .rdata(rdata), 
+    .valid(valid)
+    );
+
+
